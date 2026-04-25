@@ -1,4 +1,5 @@
 Cambio desde HU-01-dev 
+ HEAD
 Cambio en dev 
 HEAD
 Cambio diferente en dev 
@@ -7,4 +8,18 @@ Cambio en qa
  dev
 Cambio diferente en dev
 Nuevo cambio HU-02
+ HEAD
 dev
+
+ Limpia el conflicto 
+ Cambio hu-01-dev
+ Cambios "Update hu-01-dev"
+ 
+
+Nuevo cambio en hu-01-dev
+ hu-01-dev
+ dev
+ hu-01-dev → dev → qa → main
+ Cambio HU-02
+ 
+
